@@ -1,112 +1,112 @@
-<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0" version="24.7.17">
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="ZB5hHYv4jBkCrh31o8fb">
-    <mxGraphModel dx="3555" dy="1868" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3240" dy="1732" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-1" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 26px;&quot;&gt;问题诊断：研究生教育五大突出问题（课程体系滞后&amp;nbsp; |&amp;nbsp; 教学模式固化&amp;nbsp; |&amp;nbsp; 跨学科融合不足&amp;nbsp; |&amp;nbsp; 文献检索受限&amp;nbsp; |&amp;nbsp; 工程实践薄弱）&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#5f718b;fillColor=#e9edf6;" vertex="1" parent="1">
+        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-1" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 26px;&quot;&gt;问题诊断：研究生教育五大突出问题（课程体系滞后&amp;nbsp; |&amp;nbsp; 教学模式固化&amp;nbsp; |&amp;nbsp; 跨学科融合不足&amp;nbsp; |&amp;nbsp; 文献检索受限&amp;nbsp; |&amp;nbsp; 工程实践薄弱）&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#5f718b;fillColor=#e9edf6;" parent="1" vertex="1">
           <mxGeometry x="-682" y="-111" width="1485" height="116" as="geometry" />
         </mxCell>
-        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-2" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#62738b;fillColor=#ebf3ea;arcSize=11;" vertex="1" parent="1">
+        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-2" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#62738b;fillColor=#ebf3ea;arcSize=11;" parent="1" vertex="1">
           <mxGeometry x="-682" y="62" width="480" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-10" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#62738b;fillColor=#ebf3ea;" vertex="1" parent="1">
+        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-10" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#62738b;fillColor=#ebf3ea;" parent="1" vertex="1">
           <mxGeometry x="-659.5" y="124" width="435" height="152" as="geometry" />
         </mxCell>
-        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-11" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#62738b;fillColor=#ebf3ea;arcSize=31;" vertex="1" parent="1">
+        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-11" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#62738b;fillColor=#ebf3ea;arcSize=31;" parent="1" vertex="1">
           <mxGeometry x="-650" y="272" width="416" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-30" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;教学赋能&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-30" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;教学赋能&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-523" y="79" width="162" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-31" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;①动态知识图谱的&lt;/font&gt;&lt;div style=&quot;font-size: 24px;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;课程体系重构&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 24px;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;（多粒度知识图谱、&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 24px;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;课程逻辑梳理）&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-31" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;①动态知识图谱的&lt;/font&gt;&lt;div style=&quot;font-size: 24px;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;课程体系重构&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 24px;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;（多粒度知识图谱、&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 24px;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;课程逻辑梳理）&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-559" y="136.5" width="234" height="127" as="geometry" />
         </mxCell>
-        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-36" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;②数字人+智能问答的智慧互动教学平台&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-36" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;②数字人+智能问答的智慧互动教学平台&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-624.5" y="287" width="370" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-37" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#62738b;fillColor=#FAF3E7;arcSize=11;" vertex="1" parent="1">
+        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-37" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#62738b;fillColor=#FAF3E7;arcSize=11;" parent="1" vertex="1">
           <mxGeometry x="-178" y="62" width="480" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-38" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#62738b;fillColor=#FAF3E7;" vertex="1" parent="1">
+        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-38" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#62738b;fillColor=#FAF3E7;" parent="1" vertex="1">
           <mxGeometry x="-155.5" y="124" width="435" height="152" as="geometry" />
         </mxCell>
-        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-39" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#62738b;fillColor=#FAF3E7;arcSize=31;" vertex="1" parent="1">
+        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-39" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#62738b;fillColor=#FAF3E7;arcSize=31;" parent="1" vertex="1">
           <mxGeometry x="-146" y="272" width="416" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-40" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;科研赋能&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-40" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;科研赋能&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-19" y="79" width="162" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-42" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;④科技情报大数据平台的文献检索识别&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-42" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;④科技情报大数据平台的文献检索识别&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-114.5" y="287" width="358" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-49" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#62738b;fillColor=#F1ECF7;arcSize=11;" vertex="1" parent="1">
+        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-49" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#62738b;fillColor=#F1ECF7;arcSize=11;" parent="1" vertex="1">
           <mxGeometry x="325" y="62" width="480" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-50" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#62738b;fillColor=#F1ECF7;" vertex="1" parent="1">
+        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-50" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#62738b;fillColor=#F1ECF7;" parent="1" vertex="1">
           <mxGeometry x="347.5" y="124" width="435" height="152" as="geometry" />
         </mxCell>
-        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-52" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;实践赋能&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-52" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;实践赋能&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="484" y="79" width="162" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-34" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;③“AI+学科贯通”的&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;跨学科科研融合创新&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;（通识课程、AI全面赋能）&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-34" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;③“AI+学科贯通”的&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;跨学科科研融合创新&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;（通识课程、AI全面赋能）&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-88" y="151" width="305" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-35" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;⑤校企联合的人工智能&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;创新实践环境&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;（研究生工作站+联合实验室）&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-35" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;⑤校企联合的人工智能&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;创新实践环境&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;（研究生工作站+联合实验室）&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="393" y="151" width="344" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-55" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 26px;&quot;&gt;全链条研究生创新能力培养模式集成&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 26px;&quot;&gt;（“课程重构新体系-智慧教学新方法-融合创新新范式-文献识别新生态”+校企协同实践环境）&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#6c8ebf;fillColor=#ecf6f8;" vertex="1" parent="1">
+        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-55" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 26px;&quot;&gt;全链条研究生创新能力培养模式集成&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 26px;&quot;&gt;（“课程重构新体系-智慧教学新方法-融合创新新范式-文献识别新生态”+校企协同实践环境）&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#6c8ebf;fillColor=#ecf6f8;" parent="1" vertex="1">
           <mxGeometry x="-687.5" y="506" width="1496" height="164" as="geometry" />
         </mxCell>
-        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-56" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;endFill=1;strokeColor=#5F718B;" edge="1" parent="1">
+        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-56" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;endFill=1;strokeColor=#5F718B;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-405" y="364" as="sourcePoint" />
             <mxPoint x="-106" y="486" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-57" value="" style="endArrow=block;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;endFill=1;strokeColor=#5F718B;" edge="1" parent="1">
+        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-57" value="" style="endArrow=block;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;endFill=1;strokeColor=#5F718B;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="62" y="362" as="sourcePoint" />
             <mxPoint x="61" y="495" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-59" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;知识学习&lt;/font&gt;&lt;div style=&quot;font-size: 26px;&quot;&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;（课程重构+智慧教学）&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#6c8ebf;fillColor=#ecf6f8;arcSize=21;" vertex="1" parent="1">
+        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-59" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;知识学习&lt;/font&gt;&lt;div style=&quot;font-size: 26px;&quot;&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;（课程重构+智慧教学）&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#6c8ebf;fillColor=#ecf6f8;arcSize=21;" parent="1" vertex="1">
           <mxGeometry x="-687.5" y="765" width="416" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-60" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;科研探索&lt;/font&gt;&lt;div style=&quot;font-size: 26px;&quot;&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;（融合创新+文献识别）&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#6c8ebf;fillColor=#ecf6f8;arcSize=23;" vertex="1" parent="1">
+        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-60" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;科研探索&lt;/font&gt;&lt;div style=&quot;font-size: 26px;&quot;&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;（融合创新+文献识别）&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#6c8ebf;fillColor=#ecf6f8;arcSize=23;" parent="1" vertex="1">
           <mxGeometry x="-150" y="762" width="416" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-61" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;技术转化&lt;/font&gt;&lt;div style=&quot;font-size: 26px;&quot;&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;（校企协同工程实践）&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#6c8ebf;fillColor=#ecf6f8;arcSize=21;" vertex="1" parent="1">
+        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-61" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;技术转化&lt;/font&gt;&lt;div style=&quot;font-size: 26px;&quot;&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;（校企协同工程实践）&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#6c8ebf;fillColor=#ecf6f8;arcSize=21;" parent="1" vertex="1">
           <mxGeometry x="387" y="765" width="416" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-62" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;endFill=1;strokeColor=#5F718B;exitX=0.086;exitY=1.006;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-62" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;endFill=1;strokeColor=#5F718B;exitX=0.086;exitY=1.006;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-558.8439999999999" y="679.9839999999999" as="sourcePoint" />
             <mxPoint x="-559" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-64" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;endFill=1;strokeColor=#5F718B;" edge="1" parent="1">
+        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-64" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;endFill=1;strokeColor=#5F718B;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="540" y="364" as="sourcePoint" />
             <mxPoint x="241" y="486" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-65" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;endFill=1;strokeColor=#5F718B;exitX=0.086;exitY=1.006;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-65" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;endFill=1;strokeColor=#5F718B;exitX=0.086;exitY=1.006;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-249.00361904761843" y="804.5240000000008" as="sourcePoint" />
             <mxPoint x="-172.8" y="804.54" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-66" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;endFill=1;strokeColor=#5F718B;exitX=0.086;exitY=1.006;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-66" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;endFill=1;strokeColor=#5F718B;exitX=0.086;exitY=1.006;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="287.99638095238157" y="804.5240000000008" as="sourcePoint" />
             <mxPoint x="364.2" y="804.54" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-68" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;目标：实现AI时代研究生创新能力与培养质量的系统性提升&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#62738b;fillColor=#f7e9eb;arcSize=31;" vertex="1" parent="1">
+        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-68" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;目标：实现AI时代研究生创新能力与培养质量的系统性提升&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#62738b;fillColor=#f7e9eb;arcSize=31;" parent="1" vertex="1">
           <mxGeometry x="-460" y="900" width="1117" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-69" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;endFill=1;strokeColor=#5F718B;exitX=0.086;exitY=1.006;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="Uy_UltP7ZoNX6NLbbxsW-69" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=3;endFill=1;strokeColor=#5F718B;exitX=0.086;exitY=1.006;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="60.176000000000045" y="847.0039999999999" as="sourcePoint" />
             <mxPoint x="60" y="898" as="targetPoint" />
