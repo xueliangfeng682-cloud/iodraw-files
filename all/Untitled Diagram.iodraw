@@ -22,8 +22,14 @@
         <mxCell id="-v1yrCmnhD12PxvPe50Y-6" value="表征内语义增强" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-1164" y="280" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-v1yrCmnhD12PxvPe50Y-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-v1yrCmnhD12PxvPe50Y-8" target="-v1yrCmnhD12PxvPe50Y-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-v1yrCmnhD12PxvPe50Y-8" value="多表征融合" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-964" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-v1yrCmnhD12PxvPe50Y-10" value="多标签疾病预测" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-764" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
